@@ -6,7 +6,7 @@
 
 ### Backend / Full Stack Developer
 
-**C# · .NET · PostgreSQL · SQL Server · REST APIs**
+**.NET · C# · REST APIs · PostgreSQL · SQL Server · System Integration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matías_Biloni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-biloni/)
 
@@ -20,7 +20,8 @@ I'm a **Backend-focused Full Stack Developer** with experience building and main
 
 My main focus is backend development with **C# and .NET**, particularly in systems that require database integration, data synchronization, API development, and modernization of existing applications.
 
-- ⚙️ Working primarily with **C# / .NET**
+- ⚙️ Working primarily with **C# and modern .NET, including .NET 8 and .NET 10**
+- 🧱 Experience maintaining legacy applications built on **.NET Framework**
 - 🔌 Building **REST APIs and system integrations**
 - 🗄️ Working with **PostgreSQL and SQL Server**
 - 🔄 Experience modernizing **legacy applications**
@@ -31,18 +32,33 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Primary Backend Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Additional Languages & Backend Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Desktop & Legacy Development
+
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frontend
 
@@ -51,18 +67,18 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools
+### Tools & DevOps
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## ⚙️ Development Focus
 
-- Backend development with **.NET**
+- Backend development with **modern .NET**
 - REST API design and development
 - Relational database design and optimization
 - System integration and data synchronization
@@ -85,7 +101,7 @@ Interactive web application designed for practicing SQL, programming concepts, a
 
 REST API project focused on modern backend development practices, data persistence, validation, and maintainable architecture.
 
-`.NET 8` · `ASP.NET Core` · `PostgreSQL` · `Entity Framework Core`
+`.NET 10` · `ASP.NET Core` · `PostgreSQL` · `Entity Framework Core`
 
 ---
 
@@ -97,13 +113,20 @@ Backend service designed to synchronize information between legacy systems and m
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matubil&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matubil&theme=github_dark" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matubil&layout=compact&theme=github_dark&hide_border=true" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matubil&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matubil&theme=github_dark" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Matubil&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
