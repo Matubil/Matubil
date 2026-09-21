@@ -23,7 +23,7 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 - ⚙️ Working primarily with **C# and modern .NET, including .NET 8 and .NET 10**
 - 🧱 Experience maintaining legacy applications built on **.NET Framework**
 - 🔌 Building **REST APIs and system integrations**
-- 🗄️ Working with **PostgreSQL and SQL Server**
+- 🗄️ Working with **PostgreSQL, SQL Server, and Sybase ASE**
 - 🔄 Experience modernizing **legacy applications**
 - 🧩 Interested in **software architecture and distributed systems**
 - 🎓 Advanced student in **Computer Science**
@@ -88,41 +88,46 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 📚 Study Simulator
+### 🔄 Legacy System Modernization
 
-Interactive web application designed for practicing SQL, programming concepts, and Computer Science topics.
+Modernization of legacy business applications into newer .NET-based architectures, improving maintainability, integration, and long-term support.
 
-`JavaScript` · `IndexedDB` · `SQLite WASM`
-
----
-
-### 🔌 .NET REST API
-
-REST API project focused on modern backend development practices, data persistence, validation, and maintainable architecture.
-
-`.NET 10` · `ASP.NET Core` · `PostgreSQL` · `Entity Framework Core`
+`.NET` · `C#` · `REST APIs` · `SQL Server` · `PostgreSQL`
 
 ---
 
-### 🔄 Data Synchronization Service
+### 🔌 System Integration & Data Synchronization
 
-Backend service designed to synchronize information between legacy systems and modern relational databases.
+Development of backend services for integrating and synchronizing data between legacy systems and modern relational databases.
 
-`.NET` · `Dapper` · `PostgreSQL` · `REST`
+`.NET` · `Dapper` · `PostgreSQL` · `SQL Server` · `Sybase ASE`
 
 ---
 
-## 📈 GitHub Activity
+### 🖥️ Internal Business Applications
+
+Development and maintenance of internal desktop and web applications supporting operational workflows, data management, reporting, and business processes.
+
+`.NET` · `WinForms` · `REST APIs` · `Relational Databases`
+
+---
+
+### 🔒 Private Software Projects
+
+Development of private software products and applications intended for future commercial use.
+
+`Backend Development` · `Databases` · `Software Architecture`
+
+> Some of my professional and personal projects are private due to confidentiality, intellectual property, or commercial considerations.
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matubil&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matubil&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matubil&theme=github_dark" />
 
 <br><br>
