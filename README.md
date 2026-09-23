@@ -20,7 +20,7 @@ I'm a **Backend-focused Full Stack Developer** with experience building and main
 
 My main focus is backend development with **C# and .NET**, particularly in systems that require database integration, data synchronization, API development, and modernization of existing applications.
 
-- ⚙️ Working primarily with **C# and modern .NET, including .NET 8 and .NET 10**
+- ⚙️ Working primarily with **C# and modern .NET (.NET 8–10)**
 - 🧱 Experience maintaining legacy applications built on **.NET Framework**
 - 🔌 Building **REST APIs and system integrations**
 - 🗄️ Working with **PostgreSQL, SQL Server, and Sybase ASE**
@@ -35,8 +35,7 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 ### Primary Backend Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8--10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -88,47 +87,45 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Professional Projects
 
-### 🔄 Legacy System Modernization
+### 🔄 CAFAR Backend Modernization
 
-Modernization of legacy business applications into modern .NET-based solutions, including backend services, APIs, database migrations, and integration with existing systems.
+Backend modernization project focused on migrating legacy PowerBuilder-based functionality and data flows into a modern .NET architecture.
 
-`.NET` · `C#` · `REST APIs` · `PostgreSQL` · `SQL Server`
+The project includes REST APIs, database migration and synchronization processes, integration with legacy systems, and a PostgreSQL-based persistence layer.
 
----
-
-### 🔌 System Integration & Data Synchronization
-
-Design and development of backend processes for synchronizing and integrating data across legacy and modern systems.
-
-`.NET` · `Dapper` · `PostgreSQL` · `SQL Server` · `Sybase ASE`
+`.NET 10` · `C#` · `ASP.NET Core` · `PostgreSQL` · `Sybase ASE` · `Dapper` · `Entity Framework Core`
 
 ---
 
-### 🖥️ Business Applications
+### 🌐 Internal Applications Platform
 
-Development and maintenance of desktop and web applications supporting internal workflows, data management, reporting, and operational processes.
+Development of a modular internal web platform used to create and integrate small business applications as new operational needs arise.
 
-`.NET` · `WinForms` · `REST APIs` · `Relational Databases`
+Examples include workflow-oriented tools such as vacation management and other internal administrative applications.
 
----
-
-### 🧩 Backend & Product Development
-
-Development of backend-driven applications with a focus on maintainability, data modeling, API design, and scalable application architecture.
-
-`.NET` · `Databases` · `REST APIs` · `Software Architecture`
+`.NET 10` · `ASP.NET Core` · `Razor` · `Dapper` · `JavaScript` · `Tailwind CSS` · `DaisyUI` · `SQLite` · `Sybase ASE`
 
 ---
 
-### 🔒 Private Software Projects
+### 🎟️ Event Management Platform
 
-Development of private software products and applications intended for future commercial use.
+Development and modernization of applications supporting institutional events, including attendee management, registrations, attendance tracking, QR-based workflows, reporting, and operational processes.
 
-`Backend Development` · `Databases` · `Software Architecture`
+The platform combines modernization work with integration against existing enterprise systems and databases.
 
-> Some of my professional and personal projects are private due to confidentiality, intellectual property, or commercial considerations.
+`.NET` · `C#` · `PostgreSQL` · `SQL Server` · `Sybase ASE` · `WinForms`
+
+---
+
+### 🔐 Member Services Platform
+
+Maintenance and continuous development of a private web platform used by members to access online services.
+
+Work includes implementing new functionality, improving existing features, integrating business processes, and resolving production issues.
+
+`PHP` · `Twig` · `JavaScript` · `SQL`
 
 ---
 
@@ -136,7 +133,7 @@ Development of private software products and applications intended for future co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Matubil&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Matubil&background=0D1117&border=30363D&stroke=30363D&ring=8B1E2D&fire=B33A4B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8B1E2D&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
