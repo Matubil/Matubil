@@ -92,25 +92,33 @@ My main focus is backend development with **C# and .NET**, particularly in syste
 
 ### 🔄 Legacy System Modernization
 
-Modernization of legacy business applications into newer .NET-based architectures, improving maintainability, integration, and long-term support.
+Modernization of legacy business applications into modern .NET-based solutions, including backend services, APIs, database migrations, and integration with existing systems.
 
-`.NET` · `C#` · `REST APIs` · `SQL Server` · `PostgreSQL`
+`.NET` · `C#` · `REST APIs` · `PostgreSQL` · `SQL Server`
 
 ---
 
 ### 🔌 System Integration & Data Synchronization
 
-Development of backend services for integrating and synchronizing data between legacy systems and modern relational databases.
+Design and development of backend processes for synchronizing and integrating data across legacy and modern systems.
 
 `.NET` · `Dapper` · `PostgreSQL` · `SQL Server` · `Sybase ASE`
 
 ---
 
-### 🖥️ Internal Business Applications
+### 🖥️ Business Applications
 
-Development and maintenance of internal desktop and web applications supporting operational workflows, data management, reporting, and business processes.
+Development and maintenance of desktop and web applications supporting internal workflows, data management, reporting, and operational processes.
 
 `.NET` · `WinForms` · `REST APIs` · `Relational Databases`
+
+---
+
+### 🧩 Backend & Product Development
+
+Development of backend-driven applications with a focus on maintainability, data modeling, API design, and scalable application architecture.
+
+`.NET` · `Databases` · `REST APIs` · `Software Architecture`
 
 ---
 
@@ -124,13 +132,9 @@ Development of private software products and applications intended for future co
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matubil&theme=github_dark" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Matubil&theme=github-dark-blue&hide_border=true" />
 
